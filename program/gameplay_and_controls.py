@@ -24,7 +24,7 @@ class Tetrominoes:
         # код перемещения фигур
         pass
 
-# Модуль Управления Игрой
+# Управление игрой
 class GameControl:
     def __init__(self):
         self.game_board = GameBoard(10, 20)
