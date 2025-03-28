@@ -1,6 +1,6 @@
 # Ветка 3: Сетевое взаимодействие и администрирование
 
-# Модуль Онлайн-Игры
+# Онлайн-Игры
 class OnlinePlay:
     def __init__(self):
         pass
@@ -13,7 +13,7 @@ class OnlinePlay:
         # код начала онлайн-игры
         pass
 
-# Модуль Сетевого Взаимодействия
+# Сетевое взаимодействие
 class NetworkInteraction:
     def __init__(self):
         pass
@@ -26,7 +26,7 @@ class NetworkInteraction:
         # код приёма данных по сети
         pass
 
-# Модуль Лобби
+# Лобби
 class Lobby:
     def __init__(self):
         pass
@@ -39,7 +39,7 @@ class Lobby:
         # код присоединения к игровой комнате
         pass
 
-# Модуль Рейтинга и Достижений
+# Рейтинг и достижения
 class LeaderboardAndAchievements:
     def __init__(self):
         pass
@@ -52,7 +52,7 @@ class LeaderboardAndAchievements:
         # код разблокировки достижения
         pass
 
-# Модуль Сохранения Игры
+# Сохранение игры
 class SaveGame:
     def __init__(self):
         pass
@@ -65,7 +65,7 @@ class SaveGame:
         # код загрузки игрового состояния
         pass
 
-# Модуль Настроек
+# Настройки
 class Settings:
     def __init__(self):
         pass
@@ -80,7 +80,7 @@ class Settings:
 
     # и так далее для других настроек
 
-# Модуль Учёта Игроков
+# Учёт игроков
 class PlayerAccounts:
     def __init__(self):
         pass
