@@ -1,7 +1,0 @@
-gameplay\_and\_controls module
-==============================
-
-.. automodule:: gameplay_and_controls
-   :members:
-   :undoc-members:
-   :show-inheritance:
