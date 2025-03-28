@@ -1,6 +1,6 @@
 # Ветка 1: Игровой процесс и управление
 
-# Модуль Игрового Поля
+# Игровое Поле
 class GameBoard:
     def __init__(self, width, height):
         self.width = width
@@ -11,7 +11,7 @@ class GameBoard:
         # код отрисовки игрового поля
         pass
 
-# Модуль Фигур
+# Фигуры
 class Tetrominoes:
     def __init__(self):
         self.shapes = [...]  # список различных фигур
