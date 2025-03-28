@@ -1,6 +1,6 @@
 # Ветка 2: Мультимедиа и пользовательский интерфейс
 
-# Модуль Анимации
+# Анимация
 class Animation:
     def __init__(self):
         pass
@@ -9,7 +9,7 @@ class Animation:
         # код анимации движения фигур и других событий
         pass
 
-# Модуль Музыки и Звуков
+# Музыка
 class Audio:
     def __init__(self):
         pass
@@ -18,7 +18,7 @@ class Audio:
         # код воспроизведения аудиоэффектов и музыки
         pass
 
-# Модуль Меню
+# Меню
 class Menu:
     def __init__(self):
         pass
@@ -33,7 +33,7 @@ class Menu:
 
     # и так далее для других меню
 
-# Модуль Чата
+# Чат
 class Chat:
     def __init__(self):
         pass
@@ -46,7 +46,7 @@ class Chat:
         # код получения сообщения
         pass
 
-# Модуль Системных Сообщений
+# Системные сообщения
 class SystemMessages:
     def __init__(self):
         pass
@@ -55,7 +55,7 @@ class SystemMessages:
         # код отображения системных сообщений
         pass
 
-# Модуль Подсказок и Инструкций
+# Подсказки и инструкции
 class HintsAndInstructions:
     def __init__(self):
         pass
